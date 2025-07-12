@@ -1,6 +1,6 @@
 # 🎯 Tic-Tac-Toe - ccmanager 병렬 개발 데모
 
-[ccmanager](https://github.com/kodu-ai/ccmanager)를 사용한 Claude Code 병렬 개발 워크플로우를 시연하는 Tic-Tac-Toe 게임입니다.
+[ccmanager](https://github.com/kbwo/ccmanager)를 사용한 Claude Code 병렬 개발 워크플로우를 시연하는 Tic-Tac-Toe 게임입니다.
 
 ## 📌 목차
 - [ccmanager란?](#ccmanager란)
